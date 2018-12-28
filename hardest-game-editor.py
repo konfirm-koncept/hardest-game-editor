@@ -34,8 +34,8 @@ class mainMenu(object):
         self.blue = (0,0,255)
         self.green = (0,255,0)
         self.yellow = (255,255,0)
-        self.backgroundColor = (211,186,243)
-
+        self.backgroundColor = (211,187,243)
+        
     def initMulti(self):
         #initalizes all multimedia. For the main menu this is just the
         #background music
